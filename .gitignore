@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# まだセキュリティルール書いていないので隠しておきたい
+Firebase.ts
